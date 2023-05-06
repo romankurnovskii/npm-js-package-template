@@ -1,4 +1,5 @@
-import { helloWorld } from '../src/index.js';
+import { jest } from '@jest/globals';
+import { helloWorld } from 'src/index.js';
 
 describe('helloWorld', () => {
   it('should log "Hello, world!"', () => {
