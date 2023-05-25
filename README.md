@@ -8,11 +8,15 @@
 ![npm-javascript]
 [![License][github-license]][github-license-url]
 
+## Example
 
 ## 🌟 Features
 
 
 ## 📖 Usage
+
+
+## Usage (global module)
 
 
 ## 🛠️ Installation
